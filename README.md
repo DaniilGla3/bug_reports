@@ -21,8 +21,7 @@ statusCode 401
 ## Скриншот/скринкаст
 Ссылка на видео: **********
 
-![image](https://raw.githubusercontent.com/MaxEvdokimov1/tg_credit_card/main/bot_menu.png)
-
+![image](https://raw.githubusercontent.com/DaniilGla3/bug_reports/refs/heads/main/Bug_1.png)
 ## Ожидаемый результат
 После нажатия кнопки "Forgot password?" должен осуществляться редирект на форму восстановления пароля (согласно дизайну в figma)
 
