@@ -3,7 +3,7 @@
 ## Описание 
 На главной странице сайта в разделе авторизация при нажатии на кнопку "Forgot password?" ничего не происходит и появляется ошибка 401.
 
-## Описание
+## Предусловие
 1. Зарегистрировать новый аккаунт на сайте (бренд или блогер)
 2. Выйти из него, нажав кнопку "logout"
 
@@ -19,7 +19,7 @@ message: Unauthorized
 statusCode 401
 
 ## Скриншот/скринкаст
-Ссылка на видео: [https://disk.yandex.ru/](https://disk.yandex.ru/i/KnJVrebwVr_1JA)***********
+Ссылка на видео: [https://disk.yandex.ru/](https://disk.yandex.ru/i/*******)
 
 ![image](https://raw.githubusercontent.com/MaxEvdokimov1/tg_credit_card/main/bot_menu.png)
 
