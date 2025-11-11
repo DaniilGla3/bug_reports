@@ -78,6 +78,10 @@ Windows 11 PRO 24H2
 Screen Size: 1920x1080
 Firefox 144.0
 
+<br>
+<br>
+<br>
+
 ## Автор
 
 Даниил Глазков ([@D_Gla3](https://t.me/D_Gla3))
