@@ -9,7 +9,7 @@
 
 ## Шаги воспроизведения
 1. После разлогина ввести валидный логин(почту), которая была ранее зарегистрирована
-2. Нажать на кнопку "**Forgot password?**"
+2. Нажать на кнопку "Forgot password?"
 
 ## Фактический результат
 При нажатии на кнопку "Forgot password?" не происходит редирект на форму восстановления пароля и появляется ошибка 401.
@@ -19,7 +19,7 @@ message: Unauthorized
 statusCode 401
 
 ## Скриншот/скринкаст
-Ссылка на видео: [https://disk.yandex.ru/](https://disk.yandex.ru/i/*******)
+Ссылка на видео: **********
 
 ![image](https://raw.githubusercontent.com/MaxEvdokimov1/tg_credit_card/main/bot_menu.png)
 
